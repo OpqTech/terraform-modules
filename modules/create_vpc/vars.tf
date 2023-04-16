@@ -28,7 +28,7 @@ variable "igw_name" {
   type = string
 }
 
-variable "public_crt_name" {
+variable "public_rt_name" {
   description = "The name of the Public Route Table to create"
   type = string
 }
