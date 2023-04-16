@@ -10,8 +10,8 @@ output "igw_id" {
   value = aws_internet_gateway.igw.id
 }
 
-output "public_crt_id" {
-  value = aws_route_table.public_crt.id
+output "public_rt_id" {
+  value = aws_route_table.public_rt.id
 }
 
 
