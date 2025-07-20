@@ -1,0 +1,7 @@
+{
+    "application" : "opq",
+    "bucket" : "opq-dev-infra",
+    "ticket" : "devops-1010",
+    "dynamodb_table" : "opq-dev-statelock",
+    "region" : "ap-south-1"
+}
